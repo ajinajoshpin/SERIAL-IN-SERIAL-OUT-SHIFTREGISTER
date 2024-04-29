@@ -52,9 +52,10 @@ endmodule
 ```
 
 **RTL LOGIC FOR SISO Shift Register**
+![WhatsApp Image 2024-04-29 at 13 37 28_d9fb6ca0](https://github.com/ajinajoshpin/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/148514578/bfbed5a9-3420-45d1-ac55-57b3444be862)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-![WhatsApp Image 2024-04-29 at 13 37 28_5a71123a](https://github.com/ajinajoshpin/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/148514578/72cb57e8-a98e-4e1e-8b8d-c41dffde5b09)
+![WhatsApp Image 2024-04-29 at 13 37 40_7b0ca514](https://github.com/ajinajoshpin/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/148514578/042ba3c4-5410-4fc6-bd9d-5d968327eb6b)
 
 **RESULTS**
-![WhatsApp Image 2024-04-29 at 13 37 40_46f88578](https://github.com/ajinajoshpin/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/148514578/5b86cf40-a7d5-4f6b-b782-de477f839588)
+the output has been executed successfully
